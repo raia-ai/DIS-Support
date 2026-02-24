@@ -1,5 +1,0 @@
-## Quipware & Altura Documentation
-
-Quipware is a specialized equipment rental and management application that integrates with the DIS business system ecosystem. It provides dealerships with the tools needed to manage rental contracts, equipment availability, customer billing, and service logistics for their rental fleet. Altura is the modern, web-based companion platform that extends these capabilities with a contemporary user interface, enhanced mobile support, and deeper integration with service management workflows.
-
-This section contains documentation for both Quipware and Altura, sourced from the DIS Salesforce Knowledge Base. The articles cover a wide range of topics, including navigation and basic operations, customer and accounts receivable management, parts order entry, warranty processing, service scheduling, and configuration of vendor-specific integrations such as Thermo King and Vermeer. This documentation is intended for dealership staff and administrators working with either platform.
