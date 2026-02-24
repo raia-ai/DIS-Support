@@ -1,0 +1,5 @@
+## DIS Business System Manual
+
+The DIS Business System Manual is a comprehensive legacy reference document produced by Dealer Information Systems Corporation. It covers all major modules of the DIS Business System in detail, serving as the authoritative guide for dealership staff and administrators who work with the foundational DIS platform.
+
+This digitized version of the manual is organized by parts and appendices, mirroring the structure of the original document. The content covers a broad range of operational and technical topics, including forms alignment and printer setup for various printer models, divisional accounting procedures including end-of-month and end-of-year processes, parts inquiry and maintenance, point-of-sale priority orders, service management customer target lists, receivables inquiry, vendor inquiry and maintenance, and parts inventory adjustment. The appendices provide detailed printer-specific configuration instructions for a variety of legacy printer models. This section is an invaluable resource for understanding the historical and foundational aspects of the DIS business system.

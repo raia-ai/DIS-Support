@@ -1,0 +1,5 @@
+## Kubota Equipment Manuals
+
+This section provides a curated collection of operator and workshop manuals for various Kubota equipment models sold and serviced by DIS Corporation dealerships. These manuals are essential references for dealership service technicians, parts staff, and equipment operators, providing authoritative information directly from the manufacturer on the safe and correct operation, maintenance, and repair of Kubota machinery.
+
+The manuals in this section cover a range of equipment categories, including compact excavators (K008-3, U10-3, KX91-3), wheel loaders (RT270, RT280 series), utility vehicles (RTV 520), and loader attachments such as pallet forks (AP-PFL series) and skid cutters (AP-SC7072). Each manual has been processed with standardized metadata for consistent identification within the knowledge base. Content includes safety information, assembly and setup instructions, operating procedures, maintenance schedules, technical specifications, and troubleshooting guides.
